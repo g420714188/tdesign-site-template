@@ -136,7 +136,7 @@ ${so(a,x.index)}`),k}}b.prevArgs=m}}const dn=new WeakMap;function oi(e,t,n=200){
           target="${a.target}"
           >${a.name}</a
         >
-      `})}ie({tag:"td-header",site:"",title:"",platform:"web",framework:"vue",disabledTheme:!1,enabledLocale:!0,notice:{get:(e,t)=>t||{},set:(e,t)=>t,connect:(e,t)=>{}},npmVersions:{get:(e,t)=>t||{},set:(e,t)=>t,connect:(e,t)=>{}},collapseMenu:{get:(e,t)=>t||!1,set:(e,t)=>t,connect:(e,t)=>{function n(){const o=window.innerWidth<960;Object.assign(e,{[t]:o})}return requestAnimationFrame(()=>n()),window.addEventListener("resize",n),()=>{window.removeEventListener("resize",n)}}},render:e=>{const{site:t,title:n,platform:o,framework:r,disabledTheme:i,collapseMenu:a}=e;return F`
+      `})}ie({tag:"td-header",site:"/",title:"\u6587\u6863\u4E2D\u5FC3",platform:"web",framework:"vue",disabledTheme:!1,enabledLocale:!0,notice:{get:(e,t)=>t||{},set:(e,t)=>t,connect:(e,t)=>{}},npmVersions:{get:(e,t)=>t||{},set:(e,t)=>t,connect:(e,t)=>{}},collapseMenu:{get:(e,t)=>t||!1,set:(e,t)=>t,connect:(e,t)=>{function n(){const o=window.innerWidth<960;Object.assign(e,{[t]:o})}return requestAnimationFrame(()=>n()),window.addEventListener("resize",n),()=>{window.removeEventListener("resize",n)}}},render:e=>{const{site:t,title:n,platform:o,framework:r,disabledTheme:i,collapseMenu:a}=e;return F`
       ${_i(e)}
       <header class="TDesign-header">
         <div class="TDesign-header-inner">

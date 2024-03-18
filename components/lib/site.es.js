@@ -2101,8 +2101,8 @@ function renderLinks$2(host, headerList2, platform, framework) {
 }
 define$2({
   tag: "td-header",
-  site: "",
-  title: "",
+  site: "/",
+  title: "\u6587\u6863\u4E2D\u5FC3",
   platform: "web",
   framework: "vue",
   disabledTheme: false,

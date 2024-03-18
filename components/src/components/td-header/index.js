@@ -256,8 +256,8 @@ function renderLinks(host, headerList, platform, framework) {
 
 export default define({
   tag: "td-header",
-  site: '',
-  title: "",
+  site: '/',
+  title: "文档中心",
   platform: "web",
   framework: "vue",
   disabledTheme: false,
