@@ -12,22 +12,8 @@
   <component name="ChangeListManager">
     <list default="true" id="50478412-1e2c-4a81-9525-30bfdd05ec76" name="Default Changelist" comment="初始化提交">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/components/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/config/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/config/header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/config/locale.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/config/locale.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/components/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/lib/images/everdt-logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/lib/site.es.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/lib/site.es.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/lib/site.umd.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/lib/site.umd.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/components/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/src/components/td-doc-footer/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/src/components/td-doc-footer/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/src/images/everdt-logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/site/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/src/pages/home/index_zh-CN.vue" beforeDir="false" afterPath="$PROJECT_DIR$/site/src/pages/home/index_zh-CN.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/src/site-en.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/site/src/site-en.config.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/src/site.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/site/src/site.config.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/tdesign/contact_zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/site/tdesign/contact_zh-CN.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/tdesign/introduce_zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/site/tdesign/introduce_zh-CN.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1710741765002</updated>
       <workItem from="1710741767772" duration="9000" />
-      <workItem from="1710741801224" duration="6657000" />
+      <workItem from="1710741801224" duration="7200000" />
     </task>
     <task id="LOCAL-00001" summary="初始化提交">
       <created>1710742437576</created>
@@ -84,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710742437576</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="初始化提交">
+      <created>1710751048292</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710751048292</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,13 +103,17 @@
       <screen x="0" y="25" width="2560" height="1415" />
     </state>
     <state x="1608" y="528" key="#Inspections/609.1465.1440.815/0.25.2560.1415@0.25.2560.1415" timestamp="1710743283832" />
-    <state x="1108" y="419" key="Vcs.Push.Dialog.v2" timestamp="1710742439512">
+    <state x="1108" y="419" key="Vcs.Push.Dialog.v2" timestamp="1710751049484">
       <screen x="0" y="25" width="2560" height="1415" />
     </state>
-    <state x="1108" y="419" key="Vcs.Push.Dialog.v2/609.1465.1440.815/0.25.2560.1415@0.25.2560.1415" timestamp="1710742439512" />
-    <state x="1678" y="601" width="592" height="518" key="find.popup" timestamp="1710750410623">
+    <state x="1108" y="419" key="Vcs.Push.Dialog.v2/609.1465.1440.815/0.25.2560.1415@0.25.2560.1415" timestamp="1710751049484" />
+    <state x="1150" y="545" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1710750997176">
       <screen x="0" y="25" width="2560" height="1415" />
     </state>
-    <state x="1678" y="601" width="592" height="518" key="find.popup/609.1465.1440.815/0.25.2560.1415@0.25.2560.1415" timestamp="1710750410623" />
+    <state x="1150" y="545" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/609.1465.1440.815/0.25.2560.1415@0.25.2560.1415" timestamp="1710750997176" />
+    <state x="1678" y="601" width="592" height="518" key="find.popup" timestamp="1710750983353">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state x="1678" y="601" width="592" height="518" key="find.popup/609.1465.1440.815/0.25.2560.1415@0.25.2560.1415" timestamp="1710750983353" />
   </component>
 </project>
