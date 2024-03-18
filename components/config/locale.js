@@ -5,7 +5,8 @@ export const getLocale = () => {
   const locale = {
     zh: {
       footer: {
-        copyright: '腾讯公司 版权所有',
+        company: 'xxxxx ',
+        copyright: 'xxxxx 版权所有',
         weComGroup: '企业微信群',
         weComGroupDesc: '欢迎微信扫码联系我们',
       },

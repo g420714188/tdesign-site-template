@@ -164,89 +164,89 @@ const siteConfig = {
             },
             component: () => import('@tdesign/contact_zh-CN.md')
           }
-          // ,
-          // {
-          //   name: 'tech',
-          //   title: '整体方案',
-          //   path: '/about/tech',
-          //   meta: {
-          //     documentTitle: '整体方案 - TDesign'
-          //   },
-          //   component: () => import('@tdesign/tech_zh-CN.md')
-          // },
-          // {
-          //   name: 'roadmap',
-          //   title: '后续计划',
-          //   path: '/about/roadmap',
-          //   meta: {
-          //     documentTitle: '后续计划 - TDesign'
-          //   },
-          //   component: () => import('@tdesign/roadmap_zh-CN.md')
-          // },
-          // {
-          //   name: 'faq',
-          //   title: '常见问题',
-          //   path: '/about/faq',
-          //   meta: {
-          //     documentTitle: '常见问题 - TDesign'
-          //   },
-          //   component: () => import('@tdesign/faq_zh-CN.md')
-          // },
-          // {
-          //   name: 'awesome',
-          //   title: '社区资源',
-          //   path: '/about/awesome',
-          //   meta: {
-          //     documentTitle: '社区资源 - TDesign',
-          //     title: '社区资源'
-          //   },
-          //   component: () => import('@tdesign/awesome_zh-CN.md')
-          // },
-          // {
-          //   name: 'release',
-          //   title: '每周发布',
-          //   path: '/about/release',
-          //   meta: {
-          //     documentTitle: '每周发布 - TDesign',
-          //     title: '每周发布',
-          //     desc: 'TDesign 每周发布，为你带来每周最新的动态'
-          //   },
-          //   component: () => import('@/pages/about/release.vue')
-          // }
+          ,
+          {
+            name: 'tech',
+            title: '整体方案',
+            path: '/about/tech',
+            meta: {
+              documentTitle: '整体方案 - TDesign'
+            },
+            component: () => import('@tdesign/tech_zh-CN.md')
+          },
+          {
+            name: 'roadmap',
+            title: '后续计划',
+            path: '/about/roadmap',
+            meta: {
+              documentTitle: '后续计划 - TDesign'
+            },
+            component: () => import('@tdesign/roadmap_zh-CN.md')
+          },
+          {
+            name: 'faq',
+            title: '常见问题',
+            path: '/about/faq',
+            meta: {
+              documentTitle: '常见问题 - TDesign'
+            },
+            component: () => import('@tdesign/faq_zh-CN.md')
+          },
+          {
+            name: 'awesome',
+            title: '社区资源',
+            path: '/about/awesome',
+            meta: {
+              documentTitle: '社区资源 - TDesign',
+              title: '社区资源'
+            },
+            component: () => import('@tdesign/awesome_zh-CN.md')
+          },
+          {
+            name: 'release',
+            title: '每周发布',
+            path: '/about/release',
+            meta: {
+              documentTitle: '每周发布 - TDesign',
+              title: '每周发布',
+              desc: 'TDesign 每周发布，为你带来每周最新的动态'
+            },
+            component: () => import('@/pages/about/release.vue')
+          }
         ]
       },
-      // {
-      //   title: '加入',
-      //   children: [
-      //     {
-      //       name: 'contributing',
-      //       title: '如何贡献',
-      //       path: '/about/contributing',
-      //       meta: {
-      //         documentTitle: '如何贡献 - TDesign'
-      //       },
-      //       component: () => import('@tdesign/contributing_zh-CN.md')
-      //     },
-      //     {
-      //       name: 'contributing',
-      //       title: '组件开发流程',
-      //       path: '/about/new-component',
-      //       meta: {
-      //         documentTitle: '从构思到生产：一个组件的诞生 - TDesign'
-      //       },
-      //       component: () => import('@tdesign/new-component_zh-CN.md')
-      //     },
-      //     {
-      //       name: 'contact',
-      //       title: '联系我们',
-      //       path: '/about/contact',
-      //       meta: {
-      //         documentTitle: '联系我们 - TDesign'
-      //       },
-      //       component: () => import('@tdesign/contact_zh-CN.md')
-      //     }
-      //   ]
-      // }
+      {
+        title: '加入',
+        children: [
+          {
+            name: 'contributing',
+            title: '如何贡献',
+            path: '/about/contributing',
+            meta: {
+              documentTitle: '如何贡献 - TDesign'
+            },
+            component: () => import('@tdesign/contributing_zh-CN.md')
+          },
+          {
+            name: 'new-component',
+            title: '组件开发流程',
+            path: '/about/new-component',
+            meta: {
+              documentTitle: '从构思到生产：一个组件的诞生 - TDesign'
+            },
+            component: () => import('@tdesign/new-component_zh-CN.md')
+          },
+          {
+            name: 'contact',
+            title: '联系我们',
+            path: '/about/contact',
+            meta: {
+              documentTitle: '联系我们 - TDesign'
+            },
+            component: () => import('@tdesign/contact_zh-CN.md')
+          }
+        ]
+      }
     ]
   }
 }

@@ -1,7 +1,8 @@
 {
-  "name": "@everdt/tdesign-site-components",
+  "name": "@xxxxx/tdesign-site-components",
   "version": "0.13.17",
   "main": "lib/site.es.js",
+  "description": "基于TDesign site修改文档网站创建模版",
   "scripts": {
     "dev": "vite",
     "watch": "vite build --watch",
@@ -10,9 +11,9 @@
     "test": "jest --coverage"
   },
   "publishConfig": {
-    "registry": "https://packages.aliyun.com/62047c9ec5006adb19fe6227/npm/npm-registry/"
+    "registry": "组件发布npm库地址"
   },
-  "homepage": "https://github.com/TDesignOteam/tdesign-site/blob/main/components/README.md",
+  "homepage": "",
   "keywords": [
     "TDesign",
     "webcomponents"
