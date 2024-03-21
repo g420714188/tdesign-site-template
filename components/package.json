@@ -1,6 +1,6 @@
 {
   "name": "@xxxxx/tdesign-site-components",
-  "version": "0.13.17",
+  "version": "1.0.1",
   "main": "lib/site.es.js",
   "description": "基于TDesign site修改文档网站创建模版",
   "scripts": {
@@ -11,7 +11,7 @@
     "test": "jest --coverage"
   },
   "publishConfig": {
-    "registry": "组件发布npm库地址"
+    "registry": "https://packages.aliyun.com/62047c9ec5006adb19fe6227/npm/npm-registry/"
   },
   "homepage": "",
   "keywords": [

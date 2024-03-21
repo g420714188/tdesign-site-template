@@ -9,12 +9,12 @@ import '@/style/index.less';
 import 'tdesign-vue-next/es/style/index.css';
 
 // import site webcomponents
-import '@everdt/tdesign-site-components';
-import '@everdt/tdesign-site-components/lib/styles/style.css';
-import '@everdt/tdesign-site-components/lib/styles/prism-theme.less';
-import '@everdt/tdesign-site-components/lib/styles/prism-theme-dark.less';
+import '@xxxxx/tdesign-site-components';
+import '@xxxxx/tdesign-site-components/lib/styles/style.css';
+import '@xxxxx/tdesign-site-components/lib/styles/prism-theme.less';
+import '@xxxxx/tdesign-site-components/lib/styles/prism-theme-dark.less';
 import "tdesign-icons-view";
-import { registerLocaleChange } from '@everdt/tdesign-site-components';
+import { registerLocaleChange } from '@xxxxx/tdesign-site-components';
 
 registerLocaleChange()
 

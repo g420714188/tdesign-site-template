@@ -53,7 +53,7 @@ const menus = [
         "key": "tdesign",
         "title": "TDesign",
         "url": "https://tdesign.tencent.com/?utm_source=tdc&utm_medium=tdc.nav",
-        "desc": "企业级设计体系1"
+        "desc": "企业级设计体系"
       },
       {
         "key": "codesign",
